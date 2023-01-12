@@ -1,4 +1,5 @@
 # RayTracer  
+A way to trace the rays from your eyes  
 It takes a while to start up, as I have not implemented multithreading (maybe I will in the future).  
 ## Features
  - Render spheres and planes
