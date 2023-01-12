@@ -1,7 +1,5 @@
-# RayTracer
-
-
-It takes a while to start up, as I have not implemented multithreading (maybe I will in the future).
+# RayTracer  
+It takes a while to start up, as I have not implemented multithreading (maybe I will in the future).  
 ## Features
  - Render spheres and planes
  - Reflection
